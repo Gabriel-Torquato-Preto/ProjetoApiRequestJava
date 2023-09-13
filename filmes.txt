@@ -1,0 +1,1 @@
+Titulo{nome='Oppenheimer', anoDeLancamento=2023, duracaoEmMinutos=180}
